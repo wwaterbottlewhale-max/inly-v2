@@ -1,0 +1,5 @@
+{
+  "name": "Inkly: AI Image Editor",
+  "description": "An intelligent image editing assistant. Use text prompts to edit your photos or generate entirely new images from your imagination, powered by Gemini.",
+  "requestFramePermissions": []
+}
